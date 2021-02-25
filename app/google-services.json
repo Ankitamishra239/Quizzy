@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257794504225",
+    "firebase_url": "https://quizzy-4afaa.firebaseio.com",
+    "project_id": "quizzy-4afaa",
+    "storage_bucket": "quizzy-4afaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257794504225:android:dfe3c124fc4d1b33cdd560",
+        "android_client_info": {
+          "package_name": "ashiana.com.quizzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257794504225-d0b70i1k8ll83kan7m7gfknjkva19r2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzg3AIiANKSDEm8PXO94upLPlOmoNUXtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257794504225-d0b70i1k8ll83kan7m7gfknjkva19r2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
